@@ -2,7 +2,7 @@ import pygame, random
 
 passes = 0
 amount_of_platforms = 0
-scrolling_speed = 2
+scrolling_speed = 3
 
 
 class Platform(pygame.sprite.Sprite):
