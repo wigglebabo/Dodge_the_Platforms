@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.nodePackages.prettier
     pkgs.portmidi
     pkgs.pkg-config
     pkgs.libpng
